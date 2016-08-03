@@ -1,4 +1,4 @@
 git add .
 curtime=`date`
-git commit -m "Automatic literature mining Backup @ $curtime"
+git commit -m "Automated literature mining backup @ $curtime"
 git push origin master
