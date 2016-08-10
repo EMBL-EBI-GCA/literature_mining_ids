@@ -1,5 +1,6 @@
 git pull origin master
 git add .
+git diff-index --quiet HEAD -- && echo exited
 curtime=`date`
 git commit -m "Automated literature mining backup @ $curtime"
 git push origin master
