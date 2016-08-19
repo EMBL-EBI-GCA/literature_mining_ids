@@ -2,11 +2,11 @@
 Line/Sample and BioSample IDs for EMBL-EBI Vertebrate Data Coordination Projects.
 
 Currently supporting literature mining for:
-[EBiSC](https://ebisc.org/)
-[HipSci](http://www.hipsci.org/)
-[HGDP](http://www.hagsc.org/hgdp/)
-[IGSR](http://www.internationalgenome.org/)
-[hPSCreg](https://hpscreg.eu/)
+* [EBiSC](https://ebisc.org/)
+* [HipSci](http://www.hipsci.org/)
+* [HGDP](http://www.hagsc.org/hgdp/)
+* [IGSR](http://www.internationalgenome.org/)
+* [hPSCreg](https://hpscreg.eu/)
 
 Each tab delimited file will contain a primary name, alternative names
 separated by '###' and a BioSamples ID e.g.
