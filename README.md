@@ -8,7 +8,7 @@ Currently supporting literature mining for:
 * [IGSR](http://www.internationalgenome.org/)
 * [hPSCreg](https://hpscreg.eu/)
 
-Each tab delimited file will contain a primary name, alternative names
+Each tab delimited file contains a primary name, alternative names
 separated by '###' and a BioSamples ID e.g.
 
 RCi001-A	RCi88###Thp3C-6	SAMEA3105842
