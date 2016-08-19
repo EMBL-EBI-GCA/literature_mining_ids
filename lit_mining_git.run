@@ -1,5 +1,5 @@
 git pull --quiet origin master
 git add .
 curtime=`date`
-git commit --quiet  -m "Automated literature mining backup @ $curtime"
+git commit --quiet -m "Automated literature mining backup @ $curtime"
 git push --quiet origin master
