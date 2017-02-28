@@ -6,7 +6,7 @@ Currently supporting literature mining for:
 * [HipSci](http://www.hipsci.org/)
 * [HGDP](http://www.hagsc.org/hgdp/)
 * [IGSR](http://www.internationalgenome.org/)
-* [hPSCreg](https://hpscreg.eu/)
+* [hPSCreg](https://hpscreg.eu/) PLANNED NOT CURRENTLY ACTIVE
 
 Each tab delimited file contains a primary name, alternative names
 separated by '###' and a BioSamples ID e.g.
